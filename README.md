@@ -1,12 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=00CFFF&center=true&vCenter=true&width=480&lines=Software+Engineer;IoT+Security+%7C+Data+Analytics;Full-Stack+Developer;Open+to+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=00CFFF&center=true&vCenter=true&width=520&lines=Software+Engineer;Founder+%26+Developer+%C2%B7+KDramaChecklist.com;IoT+Security+%7C+Data+Analytics;Full-Stack+Developer;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 # Krisztian Kovacs Sotet
 
-Software Engineering graduate · Building secure, data-driven, and scalable systems
+Software Engineering graduate · Founder of KDramaChecklist.com · Building secure, data-driven systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-050911?style=for-the-badge&logo=firefoxbrowser&logoColor=00cfff)](https://dsmithin.github.io/my-portfolio/)
+[![KDramaChecklist](https://img.shields.io/badge/KDramaChecklist.com-050911?style=for-the-badge&logo=android&logoColor=aaff45)](https://kdramachecklist.com)
 [![Email](https://img.shields.io/badge/Email-050911?style=for-the-badge&logo=gmail&logoColor=00cfff)](mailto:krisztian.kovacssotet@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050911?style=for-the-badge&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/krisztian-kovacs-sotet-217853202)
 
@@ -16,9 +17,30 @@ Software Engineering graduate · Building secure, data-driven, and scalable syst
 
 ## About Me
 
-I'm a Software Engineering graduate from the **University of Hertfordshire**, focused on building efficient, reliable, and secure software. I take ideas from concept to production — writing clean code, validating assumptions with data, and iterating fast.
+I'm a Software Engineering graduate from the **University of Hertfordshire**, focused on building efficient, reliable, and secure software. I take ideas from concept to production — writing clean code, validating with real users, and iterating fast.
 
-My work spans **IoT security**, **data analytics**, and **full-stack development**. Currently deepening my knowledge of Machine Learning, Cloud Computing, and Distributed Systems.
+Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.com)** — a live product with real users, launching on Google Play Store. My wider work spans **IoT security**, **data analytics**, and **full-stack development**.
+
+---
+
+## 🌟 Shipped Products
+
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <h3>📺 KDramaChecklist &nbsp;<a href="https://kdramachecklist.com"><img src="https://img.shields.io/badge/Live-kdramachecklist.com-050911?style=flat-square&logo=android&logoColor=aaff45" /></a> &nbsp;<img src="https://img.shields.io/badge/Google_Play-Coming_Soon-050911?style=flat-square&logo=googleplay&logoColor=aaff45" /></h3>
+      <p><strong>Founder &amp; Developer &nbsp;·&nbsp; 2025 – Present</strong></p>
+      <p>
+        Designed, built, and launched a web app for K-Drama fans to track, rate, and manage their watchlists.
+        Currently live at <a href="https://kdramachecklist.com">kdramachecklist.com</a> with real users actively testing and submitting feedback.
+        Google Play Store release imminent.
+      </p>
+      <p>
+        Full product ownership — from concept and UI design through to deployment, domain management, user feedback, and iterative bug fixing.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,6 +96,7 @@ My work spans **IoT security**, **data analytics**, and **full-stack development
 
 ## 📚 Currently Exploring
 
+- Scaling and maintaining a live product with real users
 - Advanced Machine Learning techniques & model deployment
 - Scalable cloud-based architectures (AWS / GCP)
 - Deepening knowledge of data structures & algorithms
@@ -87,9 +110,10 @@ I'm open to **software engineering roles**, freelance projects, and collaboratio
 - 📧 [krisztian.kovacssotet@gmail.com](mailto:krisztian.kovacssotet@gmail.com)
 - 💼 [linkedin.com/in/krisztian-kovacs-sotet-217853202](https://www.linkedin.com/in/krisztian-kovacs-sotet-217853202)
 - 🌐 [Portfolio](https://dsmithin.github.io/my-portfolio/)
+- 📺 [KDramaChecklist.com](https://kdramachecklist.com)
 
 ---
 
 <div align="center">
-  <sub>Open to opportunities · Built with care · <a href="https://dsmithin.github.io/my-portfolio/">View Portfolio →</a></sub>
+  <sub>Founder · KDramaChecklist.com &nbsp;·&nbsp; Open to opportunities &nbsp;·&nbsp; <a href="https://dsmithin.github.io/my-portfolio/">View Portfolio →</a></sub>
 </div>
