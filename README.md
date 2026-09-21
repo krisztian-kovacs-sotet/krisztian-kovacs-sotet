@@ -17,9 +17,9 @@ Software Engineering graduate · Founder of KDramaChecklist.com · Building secu
 
 ## About Me
 
-I'm a Software Engineering graduate from the **University of Hertfordshire**, focused on building efficient, reliable, and secure software. I take ideas from concept to production — writing clean code, validating with real users, and iterating fast.
+I'm a Software Engineering graduate from the **University of Hertfordshire**, focused on building efficient, reliable, and secure software — from distributed systems down to the UI. I take ideas from concept to production: writing clean code, validating with real users, and iterating fast.
 
-Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.com)** — a live product with real users, launching on Google Play Store. My wider work spans **IoT security**, **data analytics**, and **full-stack development**.
+Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.com)** — a live product with real users, launching soon on Google Play. My wider work spans **distributed systems**, **IoT security**, **data analytics**, and **full-stack development**.
 
 ---
 
@@ -32,8 +32,7 @@ Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.co
       <p><strong>Founder &amp; Developer &nbsp;·&nbsp; 2025 – Present</strong></p>
       <p>
         Designed, built, and launched a web app for K-Drama fans to track, rate, and manage their watchlists.
-        Currently live at <a href="https://kdramachecklist.com">kdramachecklist.com</a> with real users actively testing and submitting feedback.
-        Google Play Store release imminent.
+        Live at <a href="https://kdramachecklist.com">kdramachecklist.com</a>, actively onboarding users ahead of a Google Play Store release.
       </p>
       <p>
         Full product ownership — from concept and UI design through to deployment, domain management, user feedback, and iterative bug fixing.
@@ -66,6 +65,7 @@ Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.co
 
 **Specialisations**
 
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-050911?style=for-the-badge&logo=serverless&logoColor=aaff45)
 ![IoT Security](https://img.shields.io/badge/IoT_Security-050911?style=for-the-badge&logo=arduino&logoColor=aaff45)
 ![MQTT](https://img.shields.io/badge/MQTT-050911?style=for-the-badge&logo=eclipsemosquitto&logoColor=aaff45)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-050911?style=for-the-badge&logo=scikitlearn&logoColor=aaff45)
@@ -77,6 +77,7 @@ Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.co
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [🗄️ ForgeFS](https://github.com/DSmithin/ForgeFS) | Distributed file storage system: chunks, replicates, and verifies files with SHA-256 across multiple storage nodes; survives node failure and corrupted replicas. Backed by 50+ passing unit & integration tests. | C++20 · CMake · OpenSSL · SQLite · Docker |
 | [🔐 Securing IoT Devices](https://github.com/DSmithin/iot-security-project) | Secure MQTT communication using ChaCha20 encryption & HMAC authentication, with live attack simulation | Python · MQTT · ChaCha20 |
 | [📊 ML Analytics Dashboard](https://github.com/DSmithin/ml-analytics-dashboard) | Model evaluation dashboard with feature importance, confusion matrices & performance metrics | Python · Power BI |
 | [📦 Inventory Management App](https://github.com/DSmithin/inventory-webapp) | Full-stack system with real-time updates, reporting dashboards & role-based access control | Flask · React · PostgreSQL |
@@ -96,6 +97,7 @@ Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.co
 
 ## 📚 Currently Exploring
 
+- Distributed systems design — consistency, replication, and fault tolerance
 - Scaling and maintaining a live product with real users
 - Advanced Machine Learning techniques & model deployment
 - Scalable cloud-based architectures (AWS / GCP)
