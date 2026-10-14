@@ -89,8 +89,8 @@ Founder and sole developer of **[KDramaChecklist.com](https://kdramachecklist.co
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DSmithin&show_icons=true&theme=dark&bg_color=050911&title_color=00cfff&icon_color=aaff45&text_color=dde8f5&border_color=1a2d45&hide_border=false&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSmithin&layout=compact&theme=dark&bg_color=050911&title_color=00cfff&text_color=dde8f5&border_color=1a2d45&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krisztian-kovacs-sotet&show_icons=true&theme=dark&bg_color=050911&title_color=00cfff&icon_color=aaff45&text_color=dde8f5&border_color=1a2d45&hide_border=false&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisztian-kovacs-sotet&layout=compact&theme=dark&bg_color=050911&title_color=00cfff&text_color=dde8f5&border_color=1a2d45&langs_count=6" />
 </div>
 
 ---
