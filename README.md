@@ -6,7 +6,7 @@
 
 Software Engineering graduate · Founder of KDramaChecklist.com · Building secure, data-driven systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-050911?style=for-the-badge&logo=firefoxbrowser&logoColor=00cfff)](https://dsmithin.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050911?style=for-the-badge&logo=firefoxbrowser&logoColor=00cfff)](https://krisztian-kovacs-sotet.github.io/my-portfolio/)
 [![KDramaChecklist](https://img.shields.io/badge/KDramaChecklist.com-050911?style=for-the-badge&logo=android&logoColor=aaff45)](https://kdramachecklist.com)
 [![Email](https://img.shields.io/badge/Email-050911?style=for-the-badge&logo=gmail&logoColor=00cfff)](mailto:krisztian.kovacssotet@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050911?style=for-the-badge&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/krisztian-kovacs-sotet-217853202)
@@ -111,7 +111,7 @@ I'm open to **software engineering roles**, freelance projects, and collaboratio
 
 - 📧 [krisztian.kovacssotet@gmail.com](mailto:krisztian.kovacssotet@gmail.com)
 - 💼 [linkedin.com/in/krisztian-kovacs-sotet-217853202](https://www.linkedin.com/in/krisztian-kovacs-sotet-217853202)
-- 🌐 [Portfolio](https://dsmithin.github.io/my-portfolio/)
+- 🌐 [Portfolio](https://krisztian-kovacs-sotet.github.io/my-portfolio/)
 - 📺 [KDramaChecklist.com](https://kdramachecklist.com)
 
 ---
